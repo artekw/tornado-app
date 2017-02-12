@@ -1,14 +1,15 @@
 tornado-app
 -
 
-Simple template boilerplate with [Tornado and](http://www.tornadoweb.org/en/stable/) [Pure CSS](https://purecss.io/).
+Simple template boilerplate with [Tornado](http://www.tornadoweb.org/en/stable/) and [Pure CSS](https://purecss.io/).
 
-+ Clone
+- Clone
 
       git clone https://github.com/artekw/tornado-app.git
-+ Run
+
+- Run
 
       python app.py
 
     
-+ Profit!
+- Profit!
